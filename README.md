@@ -1,1 +1,1 @@
-# day-1_code-1
+# daily codes
